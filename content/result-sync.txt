@@ -1,0 +1,1 @@
+Here is the only writeFile result:  This is first text section and This is second text section
